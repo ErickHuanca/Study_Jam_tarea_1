@@ -20,6 +20,6 @@ Captura de pantalla
 
 <div aling = "center">
     <center>
-        <img src="/img/imagen.png" widt"300">
+        <img src="/img/imagen1.png" width"100">
     </center>
 </div>
