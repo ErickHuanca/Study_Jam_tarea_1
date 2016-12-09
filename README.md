@@ -22,6 +22,6 @@ Captura de pantalla
 <div aling = "center">
     <center>
         <img src="/img/imagen1.png" width="200">
-        <img src="/img/imagen1_gif.gif" width="200">
+        <img src="/img/imagen2_gif.gif" width="200">
     </center>
 </div>
